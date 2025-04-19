@@ -2,6 +2,7 @@
 a featured event system for python
 
 once this package it released youll be able to get it with:
+this currently doesnt work because i have no pypi acc as of yet.
 ```pip install pyeventsystem```
 
 this library uses a setup i came up with on a whim while stoned.
